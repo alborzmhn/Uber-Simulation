@@ -53,7 +53,9 @@ Create a mission by specifying:
 - Reward amount
 
 add_distance_mission <mission_id> <start_time> <end_time> <distance> <reward>
+
 add_count_mission <mission_id> <start_time> <end_time> <count> <reward>
+
 add_time_mission <mission_id> <start_time> <end_time> <time_minutes> <reward>
 
 ### Assign Missions
